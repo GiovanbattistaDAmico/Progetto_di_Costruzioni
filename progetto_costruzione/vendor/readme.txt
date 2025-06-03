@@ -1,0 +1,1 @@
+Non è stato possibile condividere la cartella vendor poiché troppo pesante anche se compressa mi scusi per il disagio.
