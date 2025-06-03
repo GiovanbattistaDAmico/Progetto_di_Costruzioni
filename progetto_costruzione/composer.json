@@ -1,0 +1,6 @@
+{
+    "name": "giovd/progetto_costruzione",
+    "require-dev": {
+        "phpunit/phpunit": "10"
+    }
+}
